@@ -29,7 +29,7 @@ The **Resume Evaluator and ATS Score Analyzer** is a **Streamlit** web applicati
 
 ```bash
 git clone https://github.com/TejasK1604/Resume-Evaluator-Job-Description-Match-Improvement-Suggestions-using-Gemini.git
-cd Resume-Evaluator-and-ATS-Score-Analyzer
+cd Resume-Evaluator-Job-Description-Match-Improvement-Suggestions-using-Gemini
 ```
 
 ### 2. Create and Activate a Virtual Environment:
