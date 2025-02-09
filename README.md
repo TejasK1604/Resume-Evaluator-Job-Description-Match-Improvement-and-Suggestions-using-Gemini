@@ -3,7 +3,7 @@
 
 ## Overview  
 
-The **Resume Evaluator & ATS Score Analyzer** is a **Streamlit-powered** web application designed to assess resumes against job descriptions.  
+The **Resume Evaluator: Job Description Match & Improvement Suggestions** is a **Streamlit-powered** web application designed to assess resumes against job descriptions.  
 Using **Google’s Gemini-1.5-Pro model**, the tool evaluates how well a resume aligns with a specific job posting and highlights areas for improvement.  
 Additionally, it computes an **ATS (Applicant Tracking System) score**, helping users gauge how effectively their resumes would pass through automated screening systems.  
 
@@ -14,6 +14,7 @@ Additionally, it computes an **ATS (Applicant Tracking System) score**, helping 
 ✅ **Seamless PDF Upload** – Supports **PDF format** for resume submission and processing.  
 ✅ **Resume Enhancement Suggestions** – Provides actionable feedback to improve resumes based on job-specific requirements.  
 ✅ **Intuitive Web Interface** – Developed with **Streamlit** for a smooth and interactive user experience.  
+
 
 
 
