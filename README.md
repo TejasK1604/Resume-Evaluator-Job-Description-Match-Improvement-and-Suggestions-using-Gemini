@@ -1,17 +1,20 @@
 # Resume-Evaluator-Job-Description-Match-Improvement-Suggestions-using-Gemini
 
 
-## Overview
+## Overview  
 
-The **Resume Evaluator and ATS Score Analyzer** is a **Streamlit** web application that leverages **Google’s Gemini-1.5-Pro model** to analyze resumes against job descriptions. It helps job seekers evaluate how well their resumes match a given job description and provides insights into areas for improvement. The app also calculates an **ATS (Applicant Tracking System) score** to help users understand how their resumes would perform in an automated screening process.
+The **Resume Evaluator & ATS Score Analyzer** is a **Streamlit-powered** web application designed to assess resumes against job descriptions.  
+Using **Google’s Gemini-1.5-Pro model**, the tool evaluates how well a resume aligns with a specific job posting and highlights areas for improvement.  
+Additionally, it computes an **ATS (Applicant Tracking System) score**, helping users gauge how effectively their resumes would pass through automated screening systems.  
 
-## Features
+## Features  
 
-- **AI-Powered Resume Evaluation** – Leverages **Gemini-1.5-Pro** for intelligent evaluation of resumes against job descriptions.
-- **ATS Score Calculation** – Provides a **percentage match** between the resume and job description, including missing/extra skills.
-- **PDF Resume Upload** – Upload resumes in **PDF format** for processing.
-- **Resume Improvement Insights** – Offers recommendations on how to improve the resume based on job requirements.
-- **User-Friendly Interface** – Built using **Streamlit** for easy interaction.
+✅ **Smart Resume Analysis** – Uses **Gemini-1.5-Pro** to assess resume relevance and alignment with job descriptions.  
+✅ **ATS Compatibility Check** – Calculates a **matching score** and identifies missing or extra skills.  
+✅ **Seamless PDF Upload** – Supports **PDF format** for resume submission and processing.  
+✅ **Resume Enhancement Suggestions** – Provides actionable feedback to improve resumes based on job-specific requirements.  
+✅ **Intuitive Web Interface** – Developed with **Streamlit** for a smooth and interactive user experience.  
+
 
 
 
